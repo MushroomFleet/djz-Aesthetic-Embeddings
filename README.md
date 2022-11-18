@@ -13,6 +13,16 @@ it's kind of you to mention where you get these ;) thx !
 
 improved versions may be made available later
 
+CyberSHAN Gradient demo:
+https://cdn.discordapp.com/attachments/1030172530356535307/1043244120631677079/djz-CYBERSHAN-demo.png
+
+(for local installations with Automatic1111's webUI)
+while inside your installation path
+git clone https://github.com/MushroomFleet/djz-Aesthetic-Embeddings extensions/aesthetic-gradients/aesthetic_embeddings
+
+(for google colab, you can use this when installing your automatic1111 webUI )
+!$fgitclone https://github.com/MushroomFleet/djz-Aesthetic-Embeddings extensions/aesthetic-gradients/aesthetic_embeddings
+
 All of these were trained on my own Art derived from my own Trained Models, based on my own Art.
 Kinda like the snake eating it's own tail. Enjoy !
 
