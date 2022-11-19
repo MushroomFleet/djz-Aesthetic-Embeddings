@@ -1,5 +1,5 @@
 # djz-Aesthetic-Embeddings
-Drift Johnsons Aesthetic Gradient Embeddings
+Drift Johnsons Aesthetic Gradients
 
 For use with Automatic1111's Stable-Diffusion-webui 
 https://github.com/AUTOMATIC1111/stable-diffusion-webui
