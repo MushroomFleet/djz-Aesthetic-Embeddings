@@ -11,10 +11,13 @@ welcome welcome !
 You can find my Aesthetic Gradient Embedding files here. 
 it's kind of you to mention where you get these ;) thx !
 
-improved versions may be made available later
+This readme will be improved eventually. More Gradients will also be create and put on here...
 
 CyberSHAN Gradient demo:
 https://cdn.discordapp.com/attachments/1030172530356535307/1043244120631677079/djz-CYBERSHAN-demo.png
+
+Full sized demo showing all 5 current Gradients with Steps, Special Thanks to Mint for the "Fortuna" Fine Tuned Model used as the subject!
+https://cdn.discordapp.com/attachments/1007067134486134935/1043392840354512988/unknown.png
 
 (for local installations with Automatic1111's webUI)
 while inside your installation path
