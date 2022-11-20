@@ -20,11 +20,11 @@ from inside your Automatic1111 webUI installation path.
 
 ## Demo
 
-November 20th 2022, Added 13 New Gradients:
+November 20th 2022, Added 13 New Gradients: (all using 15 steps)
 
 ![Update2 Screenshot](https://pbs.twimg.com/media/FiBsXQGXwA0SvQ8?format=jpg&name=4096x4096)
 
-Steps Comparison: (all using 15 steps with 0.9 weight
+Steps Comparison: (steps and gradient indicated)
 
 ![Release Screenshot](https://pbs.twimg.com/media/Fh8XMpbXkAIIUlP?format=jpg&name=4096x4096)
 
