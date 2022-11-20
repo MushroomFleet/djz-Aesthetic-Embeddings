@@ -1,16 +1,11 @@
 
-# djz Aesthetic Gradient Embeddings
+# Drift Johnson's Aesthetic Gradient Embeddings Repo
 
 for Automatic1111's WebUI for Stable Diffusion with Aesthetic Gradient Extension
 
 https://github.com/AUTOMATIC1111/stable-diffusion-webui
 
 https://github.com/vicgalle/stable-diffusion-aesthetic-gradients
-
-
-## Demo
-
-![App Screenshot](https://pbs.twimg.com/media/Fh8XMpbXkAIIUlP?format=jpg&name=4096x4096)
 
 
 ## Deployment
@@ -23,6 +18,18 @@ To deploy this project run
 
 from inside your Automatic1111 webUI installation path.
 
+## Demo
+
+November 20th 2022, Added 13 New Gradients:
+
+![Update2 Screenshot](https://pbs.twimg.com/media/FiBsXQGXwA0SvQ8?format=jpg&name=4096x4096)
+
+Steps Comparison: (all using 15 steps with 0.9 weight
+
+![Release Screenshot](https://pbs.twimg.com/media/Fh8XMpbXkAIIUlP?format=jpg&name=4096x4096)
+
+
+![Release Screenshot](https://pbs.twimg.com/media/FiBuMOPXoAANsvM?format=jpg&name=900x900)
 ## Citation
 
 I found this useful for my research, so i have cited the paper:
